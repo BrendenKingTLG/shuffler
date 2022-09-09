@@ -1,3 +1,5 @@
+package com.tlglearning;
+
 import java.util.Random;
 
 public class Shuffler {
